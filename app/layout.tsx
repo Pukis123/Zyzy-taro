@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Santykių TARO dėlionė — ZYZY Studio",description:"Individuali simbolinė santykių TARO interpretacija."}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="lt"><body>{children}</body></html>}
